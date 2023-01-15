@@ -1,0 +1,27 @@
+[submodule "vscode-docs"]
+	path = vscode-docs
+	url = https://github.com/microsoft/vscode-docs.git
+[submodule "vscode-extension-samples"]
+	path = examples-general/vscode-extension-samples
+	url = https://github.com/microsoft/vscode-extension-samples.git
+[submodule "vscode-webview-ui-toolkit-samples"]
+	path = examples-general/vscode-webview-ui-toolkit-samples
+	url = https://github.com/microsoft/vscode-webview-ui-toolkit-samples.git
+[submodule "examples-webview/vscode-webview-ui-toolkit"]
+	path = examples-webview/vscode-webview-ui-toolkit
+	url = https://github.com/microsoft/vscode-webview-ui-toolkit.git
+[submodule "vscode-wiki"]
+	path = vscode-wiki
+	url = https://github.com/microsoft/vscode-wiki.git
+[submodule "examples-markdown/markdown-it"]
+	path = examples-markdown/markdown-it
+	url = https://github.com/markdown-it/markdown-it.git
+[submodule "vscode-extension-test-kit"]
+	path = vscode-extension-test-kit
+	url = https://github.com/microsoft/vscode-test.git
+[submodule "examples-markdown/mjbvz-vscode-github-markdown-preview-style"]
+	path = examples-markdown/mjbvz-vscode-github-markdown-preview-style
+	url = https://github.com/mjbvz/vscode-github-markdown-preview-style.git
+[submodule "examples-markdown/yzhang-gh-vscode-markdown"]
+	path = examples-markdown/yzhang-gh-vscode-markdown
+	url = https://github.com/yzhang-gh/vscode-markdown
